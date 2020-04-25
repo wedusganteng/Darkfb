@@ -9,7 +9,7 @@ $ git clone https://github.com/wedusganteng/Darkfb
 
 $ cd Darkfb
 
-$ pip2 install -r requirements.txt
+$ pip2 install -r password.txt
 
 $ python2 dark.py
  
